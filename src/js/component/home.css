@@ -1,0 +1,20 @@
+.Light  {
+        height: 8rem;
+        width: 8rem;
+        background: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        margin: 0.5rem;
+      }
+.Rojo{  background-color: red;}
+.Amarillo{   background-color: yellow;}
+.Verde{ background-color: green;}
+
+.glow{    box-shadow: 0px 0px 15px 5px rgba(255, 255, 190, .75);}
+
+.Semaforo {background-color: black;
+    display: inline-block; border-radius: 10%;
+width: 200px; height: 28rem;
+}
+.stick{ height: 70px;
+}
